@@ -1,6 +1,7 @@
 # User specific & automatically generated files #
 #################################################
-/app/vendors/*
+app/vendors/*
+app/.phpunit.result.cache
 /build
 /dist
 /tags
