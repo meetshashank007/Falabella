@@ -11,7 +11,7 @@ final class MyClass{
 
         $i = $start;
 
-        while($i < $end){
+        while($i <= $end){
 
             switch(true){
 
