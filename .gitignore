@@ -1,6 +1,6 @@
 # User specific & automatically generated files #
 #################################################
-/app/vendors
+/app/vendors/*
 /build
 /dist
 /tags
